@@ -1,1 +1,1 @@
-# iplacex-discografica-api-alison_curilen
+API REST Spring para administración de discografías favoritas de empleados de IPLACEX
