@@ -8,7 +8,7 @@ COPY . .
 RUN gradle build --no-daemon
 
 # Stage 2: Ejecutar aplicación
-FROM openjdk:17-jdk-slim
+FROM eclipse-temurin:17-jdk
 
 WORKDIR /app
 
